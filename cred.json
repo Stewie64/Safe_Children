@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apiexample-200906",
+  "private_key_id": "9fa6b808c4bb5f97c0b840aa1c07f6fab42b3b65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIxz5lTyDd5w8c\nTG1va0fpYPyhLMqVMUd9mLHw8if7V6GYfvSQvi5TRmmjcTTtXL61q39VeobF0yE0\ni1Kl0ct+kOHH8jZDMQLLqz3k1B76Wn/Klz8UKQm2eoSMPWZZXkzTfEaxy7kAm/44\ntMyrXiXV0IWSeRTRHaKdA635LV56HOg1DzjsX9ZLqwh4TozEVdmOuMFbsb4KIy+m\n+QCGRJvq1vZ9X99x0Z9dat3D+efScO45yPjbQPIX6qnKKAm5o/z9RKG9+GpXNNI0\n5YrrSsfuYzm1HYWZOZzGCQXettDXZP1GGwMd2f2qy7bDMc2qZNlktSua5VeCCJqU\nfRHtflS5AgMBAAECggEAHg9WlCxoq1Bwvrfimo/hUFuo9yiRnAyou3ElEwHuYn8Y\nPpCjZRhULzuXjVThq7f7BZALnGyfyPZ3PjqtwQ3L/cMLSrhEz4KC/KNCvQPVL35l\nK5vBYe9S+PMW7Tg0HqUzs2Yj33K03BZ+1VacXfvWhlCV7vwZ1cUuF3v5jBjy0C1H\nqKuSLUOs4gM37JwRb20TPEccsxugMZ84I5lSuyXpLlAw2pLmPS3fHQ205q7WaEMn\nRZ1pUQe/h14sf5HgZq6xR0YKjJjywDkfnCvux1Cvl+vrQVKC/VvsylxekjRCLIPB\n+3gi1OVPGEjaFDyJ6w9rUAngVKNnbCk1n0f9lyWC0QKBgQD2MXy1rtWE6DdLKRqY\ngbYoaqIpG3oQJbUpKZ+nZoExb7VsenTGrl1kKrJgK2Pb7ry3IaQA33Vc3nEYdB4L\n1QuexRdUFakDArUoHlM9We/DrBVOWgVJq7RRkmHIRX7kFmkhp6SgEfFByJo3bVs8\npq+wzrMq27Rcb5iu5I6IWbCU+wKBgQDQxqUegl7zoJsIjxKb+7JNpg/j2vpVJux3\nVfdlUndui5WchAVFODtzX3h3OERNc8mEaBFgYuCLirp8ADEGH3qgOrMMQgxrlA71\nMe0gFejEyoJvV2VZdzPV1the7V1hg8b8TfGuyVKOpzruw/njk0ZeWLdf3ACOISLA\nJ805IwMG2wKBgQCHFAPu02yHrbmY3YagIptFdaxfjZndfjL10MauXImKDFaonE+y\nKz1Glj6kkWoK4+RbPnPznqeQOuQmnJ9Xsp7bkBwKoI/I/RVUW78kLFJnM+XExZOd\nJj6bewt3jNngX4NzWb3zraSHiX9D5hZnIrXG9sJLQ5ykEv7dBr5FhaBjPQKBgQCW\n70XorLAgyffLVERL6MebQ3cxb9qTPTSvgcL9yYT2sotTQE7fICw62Maqyk72/8Ks\nquAFIvbba0wu4aSPnKp2tHlFX2rDS6MUuSeJjs1dmFp8TF7FM1ySOGTtHAXqve5Z\n8a/MgVfiMhx1CdHbKVoyU0kfUFpGZsZMzXmc2ScTCQKBgQC4troSWvVcoDH0iZtS\nCUqpcjxiqBcYk80/fWrfcdgIVv+pdImFnwuqSC+ckFUj2eZvjmWv/M1waFFt8GE4\nIEzAWCIPmeca0yCCMJvuYldVAX6Osw5EuARYDlNuqEVTIQlYop9RHVCuqDf+LXZt\nw8ZIwgbqrzqw2Z5XcvXU9Ak4Rg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stewieservice@apiexample-200906.iam.gserviceaccount.com",
+  "client_id": "103740743096842516909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stewieservice%40apiexample-200906.iam.gserviceaccount.com"
+}
